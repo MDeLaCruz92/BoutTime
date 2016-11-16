@@ -10,7 +10,6 @@ import UIKit
 
 class NewGameController: UIViewController {
     
-    // Need to make a UILabel considering it to be var gameScoreLabel
     @IBOutlet weak var scoreBoardLabel: UILabel!
     
     var newGameScore: String!
